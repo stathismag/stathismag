@@ -30,29 +30,21 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 - **BSc in Economics** (2005) - University of Patras
 
 ## 📊 Research Metrics
-- **279** Citations ([Google Scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ))
+- **280** Citations ([Google Scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ))
 - **H-Index:** 10
 - **i10-Index:** 10
 - **15** peer-reviewed publications in international journals
 
 ## 🏆 Selected Publications
 
-### Recent Highlights (2024-2025)
+### Recent Highlights (2025)
 - **Magerakis, E.** (2025). Industry differences and their influence on why companies retain cash: the impact of the COVID-19 pandemic. *Journal of Management Control*. ([doi](https://doi.org/10.1007/s00187-025-00397-6))
 - **Magerakis, E. & Theodoraki, C.** (2025). Environmental uncertainty and corporate performance: Can R&D investments provide a silver lining to this cloud? *Review of Managerial Science*. ([doi](https://doi.org/10.1007/s11846-025-00923-9))
-- **Magerakis, E., & Habib, A.** (2024). Organizational strategy, abnormal cash holdings, and future operating returns. *Journal of Accounting Literature*. ([doi](https://doi.org/10.1108/JAL-03-2024-0036))
 
 ### Top-Tier Publications
 - **Magerakis, E., Pantzalis, C., & Park, J. C.** (2023). The effect of proximity to political power on corporate cash policy. *Journal of Corporate Finance*, 82, 102448. ([doi](https://doi.org/10.1016/j.jcorpfin.2023.102448)) *[ABS 4★★★★, ABDC A*]*
-- **Magerakis, E., & Habib, A.** (2021). Business strategy and environmental inefficiency. *Journal of Cleaner Production*, 302, 127014. ([doi](https://doi.org/10.1016/j.jclepro.2021.127014)) *[IF: 11.1]*
 
 📚 [**Full Publication List**](https://smagerakis.gr/en/#publications)
-
-## 🏅 Awards & Recognition
-- Member of [European Accounting Association](http://www.eaa-online.org/r/eaa_home)
-- Member of [European Economic Association](https://www.eeassoc.org/)
-- Member of [British Accounting & Finance Association](https://bafa.ac.uk/)
-- Member of [Financial Management Association](https://www.fma.org/)
 
 ## 🎓 Teaching Experience
 - **2024-2025**: Adjunct Lecturer - [Accounting II](https://www.econ.upatras.gr/en/undergraduate/courses/accounting-ii)
@@ -61,14 +53,14 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 - **2019-2020**: Teaching Assistant - Business Financial Analysis
 
 ## 💻 Technical Skills
-- **Statistical Analysis**: R, Stata, Excel
+- **Statistical/ Econometric Analysis**: R, Stata, Excel
 - **Business Intelligence**: Targit
 - **Accounting Software**: SingularLogic, OTS
 - **Typesetting**: LaTeX, Markdown
 - **Programming**: Python (learning)
 
 ## 🎤 Recent Presentations
-- **2024**: Corporate tax avoidance under economic policy uncertainty - *International Conference on Business & Economics*, Athens
+- **2024**: Corporate tax avoidance under economic policy uncertainty - *HOU Conference*, Athens
 - **2022**: Time-varying firm cash holding and economic policy uncertainty - *FEBS Conference*, Athens
 - **2021**: Corruption, cash holdings and firm performance - *European Accounting Association Conference*, Brussels (Virtual)
 
@@ -77,11 +69,7 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 
 ## 🔬 Current Projects
 - Corporate tax avoidance under economic policy uncertainty *(Under Review)*
-- Environmental uncertainty and R&D investments
-- Political proximity and corporate governance
-
-## 📈 Interactive Research
-📊 [**Political Proximity Analysis Visualization**](https://smagerakis.gr/en/#talks) - Interactive choropleth map related to my Journal of Corporate Finance publication
+- Political corruption and corporate tax avoidance *(Under Review)*
 
 ---
 
