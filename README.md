@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-smagerakis.gr-blue)](https://smagerakis.gr)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7977--0363-green)](https://orcid.org/0000-0001-7977-0363)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-efstathiosmagerakis-blue)](https://www.linkedin.com/in/efstathiosmagerakis/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%20280-orange)](https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?user=LxLY15EAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%20280-orange)](https://scholar.google.com/citations?user=LxLY15EAAAAJ)
 [![Email](https://img.shields.io/badge/Email-smagerakis%40upatras.gr-red)](mailto:smagerakis@upatras.gr)
 
 ---
