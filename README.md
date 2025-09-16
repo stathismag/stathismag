@@ -85,5 +85,3 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 ![Profile Views](https://komarev.com/ghpvc/?username=stathismag&color=brightgreen)
 
 ---
-
-**Fun Fact**: ☕ I drink too much coffee while analyzing corporate financial data!
