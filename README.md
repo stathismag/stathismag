@@ -42,7 +42,7 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 - **Magerakis, E. & Theodoraki, C.** (2025). Environmental uncertainty and corporate performance: Can R&D investments provide a silver lining to this cloud? *Review of Managerial Science*. ([doi](https://doi.org/10.1007/s11846-025-00923-9))
 
 ### Top-Tier Publications
-- **Magerakis, E., Pantzalis, C., & Park, J. C.** (2023). The effect of proximity to political power on corporate cash policy. *Journal of Corporate Finance*, 82, 102448. ([doi](https://doi.org/10.1016/j.jcorpfin.2023.102448)) *[ABS 4★★★★, ABDC A*]*
+- **Magerakis, E., Pantzalis, C., & Park, J. C.** (2023). The effect of proximity to political power on corporate cash policy. *Journal of Corporate Finance*, 82, 102448. ([doi](https://doi.org/10.1016/j.jcorpfin.2023.102448)) *[ABS 4★, ABDC A*]*
 
 📚 [**Full Publication List**](https://smagerakis.gr/en/#publications)
 
