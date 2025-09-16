@@ -82,8 +82,6 @@ I am a teaching fellow at the [Department of Economics](https://www.econ.upatras
 
 ---
 
-*"Bridging the gap between accounting theory and financial practice through empirical research."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=stathismag&color=brightgreen)
 
 ---
