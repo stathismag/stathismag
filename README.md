@@ -64,7 +64,7 @@ I am an Assistant Professor of Financial Economics at the [Department of Economi
 - **Typesetting**: LaTeX, Markdown
 - **Programming**: Python (learning)
 
-## 🎤 Recent Presentations
+## 🎤 Selected Presentations
 * **2026**: "Is the relationship between climate policy uncertainty and cash holding nonlinear?" – *15th International Conference of the Financial Engineering and Banking Society (FEBS)*, Florence School of Banking and Finance, European University Institute, Florence, Italy.
 * **2025**: "Is the relationship between climate policy uncertainty and cash holding nonlinear?" – *International Conference on Business & Economics (ICBE) 2025*, Hellenic Open University, Athens, Greece.
 * **2025**: "Political uncertainty and cybersecurity risk: How competing forces shape corporate cash policy" – *FAME 2025 - International Conference on AI in Finance, Accounting, Management and Energy*, Heraklion, Crete, Greece.
